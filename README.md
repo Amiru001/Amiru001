@@ -51,9 +51,9 @@ I'm a Software Engineering graduate interested in building web applications and 
 
 ## 🛠️ Technical Skills
 
-<table width="100%">
+<table>
 <tr>
-<td width="33%" valign="top">
+<td width="300" valign="top">
 
 **Programming Languages**
 
@@ -63,7 +63,7 @@ I'm a Software Engineering graduate interested in building web applications and 
 - Java
 
 </td>
-<td width="33%" valign="top">
+<td width="300" valign="top">
 
 **Frontend Development**
 
@@ -73,7 +73,7 @@ I'm a Software Engineering graduate interested in building web applications and 
 - Bootstrap
 
 </td>
-<td width="33%" valign="top">
+<td width="300" valign="top">
 
 **Backend Development**
 
@@ -84,7 +84,7 @@ I'm a Software Engineering graduate interested in building web applications and 
 </td>
 </tr>
 <tr>
-<td width="33%" valign="top">
+<td width="300" valign="top">
 
 **Databases**
 
@@ -92,7 +92,7 @@ I'm a Software Engineering graduate interested in building web applications and 
 - MySQL
 
 </td>
-<td width="33%" valign="top">
+<td width="300" valign="top">
 
 **AI & Machine Learning**
 
@@ -103,7 +103,7 @@ I'm a Software Engineering graduate interested in building web applications and 
 - TF-IDF
 
 </td>
-<td width="33%" valign="top">
+<td width="300" valign="top">
 
 **Tools**
 
