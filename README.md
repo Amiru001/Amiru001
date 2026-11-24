@@ -61,7 +61,15 @@ I'm a Software Engineering graduate interested in building web applications and 
 
 🔗 [View Repository](https://github.com/Amiru001/ResearchSync-AI)
 
-### 2. BrewCart
+### 2. Banana Memory Game
+**JavaScript Memory Game**
+
+- An individual JavaScript project.
+- Developed a simple memory game with API integrations.
+
+🔗 [View Repository](https://github.com/Amiru001/banana-memory-game)
+
+### 3. BrewCart
 **Coffee Shop Website**
 
 - An early web development project.
@@ -70,13 +78,14 @@ I'm a Software Engineering graduate interested in building web applications and 
 
 🔗 [View Repository](https://github.com/Amiru001/BrewCart)
 
-### 3. Banana Memory Game
-**JavaScript Memory Game**
+### 4. BoardBuddy
+**Team Project – Web Application**
 
-- An individual JavaScript project.
-- Developed a simple memory game with API integrations.
+- Collaborated with team members to develop a web application.
+- My main contribution was the User Management module.
+- Implemented user registration, login, logout, and user detail management.
 
-🔗 [View Repository](https://github.com/Amiru001/banana-memory-game)
+🔗 [View Team Repository](https://github.com/HESHON2004/BoardBuddy)
 
 ## 📫 Connect With Me
 
