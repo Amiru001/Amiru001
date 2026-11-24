@@ -51,21 +51,70 @@ I'm a Software Engineering graduate interested in building web applications and 
 
 ## 🛠️ Technical Skills
 
-**Programming Languages**　　　　 **Frontend Development**　　　　 **Backend Development**
+<table width="100%">
+<tr>
+<td width="33%" valign="top">
 
-JavaScript　　　　　　　　　　 React.js　　　　　　　　　　 FastAPI  
-Python　　　　　　　　　　　 HTML5　　　　　　　　　　 PHP  
-PHP　　　　　　　　　　　　 CSS3　　　　　　　　　　 REST APIs  
-Java　　　　　　　　　　　　 Bootstrap
+**Programming Languages**
 
+- JavaScript
+- Python
+- PHP
+- Java
 
-**Databases**　　　　　　　　 **AI & Machine Learning**　　 **Tools**
+</td>
+<td width="33%" valign="top">
 
-MongoDB　　　　　　　　　　 BERT　　　　　　　　　　 Git & GitHub  
-MySQL　　　　　　　　　　　 NLP　　　　　　　　　　　 VS Code  
-　　　　　　　　　　　　　 Text Classification　　　　 Google Colab  
-　　　　　　　　　　　　　 Semantic Similarity　　　　 Figma  
-　　　　　　　　　　　　　 TF-IDF
+**Frontend Development**
+
+- React.js
+- HTML5
+- CSS3
+- Bootstrap
+
+</td>
+<td width="33%" valign="top">
+
+**Backend Development**
+
+- FastAPI
+- PHP
+- REST APIs
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+
+**Databases**
+
+- MongoDB
+- MySQL
+
+</td>
+<td width="33%" valign="top">
+
+**AI & Machine Learning**
+
+- BERT
+- NLP
+- Text Classification
+- Semantic Similarity
+- TF-IDF
+
+</td>
+<td width="33%" valign="top">
+
+**Tools**
+
+- Git & GitHub
+- Visual Studio Code
+- Google Colab
+- Figma
+
+</td>
+</tr>
+</table>
 
 ## 🚀 Featured Projects
 
