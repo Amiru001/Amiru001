@@ -49,6 +49,69 @@ I'm a Software Engineering graduate interested in building web applications and 
 - Google Colab
 - Figma
 
+## 🛠️ Technical Skills
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Programming Languages
+- JavaScript
+- Python
+- PHP
+- Java
+
+</td>
+<td width="50%" valign="top">
+
+### Frontend Development
+- React.js
+- HTML5
+- CSS3
+- Bootstrap
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Backend Development
+- FastAPI
+- PHP
+- REST APIs
+
+</td>
+<td width="50%" valign="top">
+
+### Databases
+- MongoDB
+- MySQL
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### AI & Machine Learning
+- BERT
+- Natural Language Processing (NLP)
+- Text Classification
+- Semantic Similarity
+- TF-IDF
+
+</td>
+<td width="50%" valign="top">
+
+### Tools
+- Git & GitHub
+- Visual Studio Code
+- Google Colab
+- Figma
+
+</td>
+</tr>
+</table>
+
 ## 🚀 Featured Projects
 
 ### 1. ResearchSync-AI
