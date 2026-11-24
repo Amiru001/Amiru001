@@ -15,42 +15,6 @@ I'm a Software Engineering graduate interested in building web applications and 
 
 ## 🛠️ Technical Skills
 
-**Programming Languages**
-- JavaScript
-- Python
-- PHP
-- Java
-
-**Frontend Development**
-- React.js
-- HTML5
-- CSS3
-- Bootstrap
-
-**Backend Development**
-- FastAPI
-- PHP
-- REST APIs
-
-**Databases**
-- MongoDB
-- MySQL
-
-**AI & Machine Learning**
-- BERT
-- Natural Language Processing (NLP)
-- Text Classification
-- Semantic Similarity
-- TF-IDF
-
-**Tools**
-- Git & GitHub
-- Visual Studio Code
-- Google Colab
-- Figma
-
-## 🛠️ Technical Skills
-
 <table>
 <tr>
 <td width="300" valign="top">
